@@ -2,7 +2,7 @@
 
 A node + nestjs server (one API endpoint)
 
-GET `api/parse/:url`
+GET `parse/:url`
 
 This endpoint returns a parsed version of the html content of the **url**, and returns back a response in the
 following format. The idea is to create a response that can then be shown to the user as a
